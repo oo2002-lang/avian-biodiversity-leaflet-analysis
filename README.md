@@ -8,7 +8,7 @@ Shannon Diversity Index mapping in R
 
 Spatial visualization using Leaflet
 
-Tools & Languages
+Tools & Languages:
 
 R / Quarto (.qmd)
 
